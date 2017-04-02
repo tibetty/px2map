@@ -1,0 +1,27 @@
+{
+  "name": "px2map",
+  "version": "1.0.0",
+  "description": "functions to calculate longitude & latitude (WGS84) differences per pixel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibetty/px2map.git"
+  },
+  "keywords": [
+    "WGS84",
+    "longitude",
+    "latitude",
+    "delta",
+    "difference",
+    "pixel"
+  ],
+  "author": "tibetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tibetty/px2map/issues"
+  },
+  "homepage": "https://github.com/tibetty/px2map#readme"
+}
